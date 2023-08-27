@@ -1,0 +1,13 @@
+{
+  "ScreenLine": {
+    "Test": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Welcome to NormalJsonFileShowLines UnitTest"
+        }
+      ]
+    }
+  }
+}

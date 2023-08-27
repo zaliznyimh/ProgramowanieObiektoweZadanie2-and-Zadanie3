@@ -1,0 +1,58 @@
+{
+  "ScreenLine": {
+    "Show": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Your available choices are:"
+        },
+        {
+          "BackgroundColor": 6,
+          "ForegroundColor": 5,
+          "Text": "0. Exit"
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 7,
+          "Text": "1. Animals"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 8,
+          "Text": "2. Settings"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Please enter your choice: "
+        },
+        {
+          "BackgroundColor": 8,
+          "ForegroundColor": 11,
+          "Text": "Sorry, but you can't change any settings in program "
+        },
+        {
+          "BackgroundColor": 6,
+          "ForegroundColor": 13,
+          "Text": "Goodbye!"
+        },
+        {
+          "BackgroundColor": 7,
+          "ForegroundColor": 15,
+          "Text": "Invalid choice. Try again."
+        }
+      ]
+    },
+
+    "Menu": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Screen history: MainScreen"
+        }
+      ]
+    }
+  }
+}

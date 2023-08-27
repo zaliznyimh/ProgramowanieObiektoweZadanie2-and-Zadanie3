@@ -1,0 +1,63 @@
+{
+  "ScreenLine": {
+    "Show": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Your available choices are: "
+        },
+        {
+          "BackgroundColor": 6,
+          "ForegroundColor": 5,
+          "Text": "0. Exit "
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 7,
+          "Text": "1. Dogs "
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 8,
+          "Text": "2. Wolves(Wolfs)"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 9,
+          "Text": "3. Dolphins"
+        },
+        {
+          "BackgroundColor": 8,
+          "ForegroundColor": 11,
+          "Text": "4. Bengal Tiger"
+        },
+        {
+          "BackgroundColor": 6,
+          "ForegroundColor": 13,
+          "Text": "Please enter your choice: "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Going back to parent menu"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Invalid choice. Try again."
+        }
+      ]
+    },
+
+    "Menu": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Screen history: MainScreen -> AnimalsScreen -> MammalsScreen"
+        }
+      ]
+    }
+  }
+}

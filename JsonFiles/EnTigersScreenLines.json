@@ -1,0 +1,218 @@
+{
+  "ScreenLine": {
+    "Show": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Your available choices are:"
+        },
+        {
+          "BackgroundColor": 6,
+          "ForegroundColor": 5,
+          "Text": "0. Exit"
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 7,
+          "Text": "1. List all bengal tigers"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 8,
+          "Text": "2. Create a new bengal tiger"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 9,
+          "Text": "3. Delete existing bengal tiger"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "4. Modify existing bengal tiger"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Please enter your choise: "
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 5,
+          "Text": "Goingback to parent menu. "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Invalid choice. Try again."
+        }
+      ]
+    },
+
+    "List": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Here's the list of all bengal tigers"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": " - is bengal tiger's number. "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Not a single bengal tiger on the list yet."
+        }
+      ]
+    },
+
+    "Add": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": " bengal tiger was recently added to a list of bengal tigers"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input. Try again."
+        }
+      ]
+    },
+
+    "AddEdit": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "Write the name of bengal tiger: "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "What is the bengal tiger's age?"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Is your bengal tiger predator?(Write Yes or No):"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "Write how do hunting abilities manifest themselves:"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input."
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Write the size of animal in metres: "
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 10,
+          "Text": "Desribe the comouflage fur: "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Does tiger has powerful legs?(Write Yes or No): "
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Write how powerful legs help tiger in life: "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Does the bengal tiger lives alone?(Write Yes or No): "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Desribe his solitary behavior:"
+        }
+      ]
+    },
+
+    "Delete": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is the name of the bengal tiger you want to delete? "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": ", Bengal tiger with that name was deleted from a list of Bengal tigers"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Bengal tiger is not found"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input"
+        }
+      ]
+    },
+
+    "Modify": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is the name of the bengal tiger you want to edit?: "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "Please, enter it's name: "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Bengal tiger after edit: "
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Bengal tiger was not found"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Invalid input. Try again."
+        }
+      ]
+    },
+
+    "Menu": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Screen history: MainScreen -> AnimalsScreen -> MammalsScreen -> BengalTigersScreen"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Press any key to continue "
+        }
+      ]
+    }
+  }
+}

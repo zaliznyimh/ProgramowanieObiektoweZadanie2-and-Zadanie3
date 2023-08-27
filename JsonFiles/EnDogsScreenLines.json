@@ -1,0 +1,178 @@
+{
+  "ScreenLine": {
+    "Show": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Your available choices are:"
+        },
+        {
+          "BackgroundColor": 6,
+          "ForegroundColor": 5,
+          "Text": "0. Exit"
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 7,
+          "Text": "1. List all dogs"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 8,
+          "Text": "2. Create a new dog"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 9,
+          "Text": "3. Delete existing dog"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "4. Modify existing dog"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Please enter your choise: "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Going back to parent menu"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Invalid choice. Try again."
+        }
+      ]
+    },
+
+    "List": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Here's the list of all dogs"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": " - is dog's number"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "List of dogs is empty"
+        }
+      ]
+    },
+
+    "Add": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": " dog was recently added to a list of dogs "
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input."
+        }
+      ]
+    },
+
+    "AddEdit": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What name of the dog? "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "What is the dog's age? "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "What is the dog's breed? "
+        }
+      ]
+    },
+
+    "Delete": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is the name of the dog you want to delete? "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Dog with that name was deleted from a list of dogs "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Dog wasn't found "
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input"
+        }
+      ]
+    },
+
+    "Modify": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is the name of the dog you want to edit?"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Please, enter it's name"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Dog after editing"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Dog was not found"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Invalid input. Try again."
+        }
+      ]
+    },
+
+    "Menu": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Screen history: MainScreen -> AnimalsScreen -> MammalsScreen -> DogsScreen"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Press any key to continue "
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "ScreenLine": {
+    "Show": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Your available choices are:"
+        },
+        {
+          "BackgroundColor": 6,
+          "ForegroundColor": 5,
+          "Text": "0. Exit"
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 7,
+          "Text": "1. List all wolfs"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 8,
+          "Text": "2. Create a new wolf"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 9,
+          "Text": "3. Delete existing wolf"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "4. Modify existing wolf"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Please enter your choise: "
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 5,
+          "Text": "Goingback to parent menu. "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Invalid choice. Try again."
+        }
+      ]
+    },
+
+    "List": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Here's the list of all wolfs"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": " - is wolf's number"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Not a single wolf on the list yet."
+        }
+      ]
+    },
+
+    "Add": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": " this wolf was recently added to a list of wolfs"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input. Try again."
+        }
+      ]
+    },
+
+    "AddEdit": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is name of the wolf"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "What is the wolf's age?"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Does it hunts in group?(Write Yes or No): "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "Write how wolf hunting if group: "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "Incorrect input. "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Does it communicate by howl(Please write Yes or No): "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Write how wolf communicate with howl: "
+        },
+        {
+          "BackgroundColor": 7,
+          "ForegroundColor": 9,
+          "Text": "What does it eat? "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Does the wolf have stong paws?(Please write Yes or No): "
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 7,
+          "Text": "Decribe how it helps good sence of smell?: "
+        }
+      ]
+    },
+
+    "Delete": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is the name of the wolf you want to delete? "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": " Wolf with that name was deleted from a list of dogs "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Wolf wasn't found "
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input"
+        }
+      ]
+    },
+
+    "Modify": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is the name of the wolf you want to edit?"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "Please, enter it's name: "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Wolf after editing"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Wolf was not found"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Invalid input. Try again."
+        }
+      ]
+    },
+
+    "Menu": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Screen history: MainScreen -> AnimalsScreen -> MammalsScreen -> WolfsScreen"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Press any key to continue "
+        }
+      ]
+    }
+  }
+}

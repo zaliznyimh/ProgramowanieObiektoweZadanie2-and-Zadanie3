@@ -1,0 +1,13 @@
+{
+  "ScreenLine": {
+    "Show": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Welcome to JsonFileIsNotNull Unit Test"
+        }
+      ]
+    }
+  }
+}

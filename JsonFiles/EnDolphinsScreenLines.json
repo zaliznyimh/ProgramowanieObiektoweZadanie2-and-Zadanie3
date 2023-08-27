@@ -1,0 +1,213 @@
+{
+  "ScreenLine": {
+    "Show": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Your available choices are:"
+        },
+        {
+          "BackgroundColor": 6,
+          "ForegroundColor": 5,
+          "Text": "0. Exit"
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 7,
+          "Text": "1. List all dolphins"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 8,
+          "Text": "2. Create a new dolphin"
+        },
+        {
+          "BackgroundColor": 4,
+          "ForegroundColor": 9,
+          "Text": "3. Delete existing dolphin"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "4. Modify existing dolphin"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Please enter your choise: "
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 5,
+          "Text": "Goingback to parent menu. "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Invalid choice. Try again."
+        }
+      ]
+    },
+
+    "List": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Here's the list of all dolphins"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": " - is dolphin's number"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Not a single dolphin on the list yet."
+        }
+      ]
+    },
+
+    "Add": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": " dolphin was recently added to a list of wolfs"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input. Try again."
+        }
+      ]
+    },
+
+    "AddEdit": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is name of the dolphin"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "What is the dolphin's age?"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Does the dolphin use echolocation?(Write Yes or No): "
+        },
+        {
+          "BackgroundColor": 3,
+          "ForegroundColor": 6,
+          "Text": "Write how dolphin use echolocation: "
+        },
+        {
+          "BackgroundColor": 7,
+          "ForegroundColor": 8,
+          "Text": "Desribe dolphin's sociable behavior: "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Does the dolphin like playing with another dolphins(Yes or No):"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Write about dolphin's playful behavior:"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Write the size of dolphin's brain(In cubic centimeters):"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 4,
+          "Text": "Can dolphin swim at high speed?(Write Yes or No): "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Write how dolphin swim at high speed: "
+        }
+      ]
+    },
+
+    "Delete": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is the name of the dolphin you want to delete? "
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": " Dolphin with that name was deleted from a list of dogs "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Dolphin wasn't found "
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Invalid input"
+        }
+      ]
+    },
+
+    "Modify": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "What is the name of the dolphin you want to edit?"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 7,
+          "Text": "Please, enter it's name: "
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 7,
+          "Text": "Dolphin after editing"
+        },
+        {
+          "BackgroundColor": 5,
+          "ForegroundColor": 2,
+          "Text": "Dolphin was not found"
+        },
+        {
+          "BackgroundColor": 2,
+          "ForegroundColor": 5,
+          "Text": "Invalid input. Try again."
+        }
+      ]
+    },
+
+    "Menu": {
+      "LineEntries": [
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Screen history: MainScreen -> AnimalsScreen -> MammalsScreen -> DolphinsScreen"
+        },
+        {
+          "BackgroundColor": 9,
+          "ForegroundColor": 15,
+          "Text": "Press any key to continue "
+        }
+      ]
+    }
+  }
+}
